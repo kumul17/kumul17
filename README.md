@@ -46,9 +46,6 @@
     <footer>
         <p>&copy; 2024 Reciclaje y Medio Ambiente. Todos los derechos reservados.</p>
     </footer>
-    <script src="script.js"></script>
-
-
  </section>
         <section id="integrantes">
             <h2>Integrantes</h2>
