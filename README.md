@@ -105,3 +105,8 @@
     <script src="script.js"></script>
 </body>
 </html>
+ </section>
+        <section id="integrantes">
+            <h2>Integrantes</h2>
+            <ul>
+                <li>Gerardo Alejandro Kumul Cen</li>
